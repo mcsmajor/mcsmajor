@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="mcsmajor — Build with purpose. Refine with care.">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071310"/><stop offset="1" stop-color="#12382b"/></linearGradient>
+  <linearGradient id="gold"><stop stop-color="#f0d795"/><stop offset="1" stop-color="#b58b3e"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#43856c" stop-opacity=".28"/><stop offset="1" stop-color="#43856c" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#8fd6b1" stroke-opacity=".06"/></pattern>
+ </defs>
+ <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+ <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+ <ellipse cx="990" cy="120" rx="310" ry="275" fill="url(#glow)"/>
+ <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#365146" stroke-opacity=".65"/>
+ <rect x="56" y="52" width="42" height="4" rx="2" fill="url(#gold)"/>
+ <text x="56" y="92" fill="#d7b568" font-size="13" letter-spacing="3.7" font-family="Arial,sans-serif">IDEAS INTO EVERYDAY TOOLS</text>
+ <text x="52" y="178" fill="#f1f5ee" font-size="72" font-weight="700" letter-spacing="-2" font-family="Arial,sans-serif">mcsmajor</text>
+ <text x="56" y="224" fill="#a8c1b5" font-size="21" font-family="Arial,sans-serif">Build with purpose. Refine with care.</text>
+ <path d="M720 284L778 252L824 266L890 183L938 207L998 129L1060 150L1130 74" fill="none" stroke="#65c89e" stroke-opacity=".12" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M720 284L778 252L824 266L890 183L938 207L998 129L1060 150L1130 74" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="998" cy="129" r="6" fill="#f0d795"/><circle cx="1130" cy="74" r="6" fill="#f0d795"/>
+ <path d="M56 280H616" stroke="#426150" stroke-opacity=".5"/>
+ <circle cx="62" cy="311" r="4" fill="#67cea5"/>
+ <text x="78" y="316" fill="#96b3a4" font-size="12" letter-spacing="2" font-family="Arial,sans-serif">CLARITY  /  CRAFT  /  CONTROL</text>
+ </svg>
