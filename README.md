@@ -2,34 +2,47 @@
 
 ![mcsmajor — Building with purpose](assets/profile-banner.svg)
 
-### จากไอเดีย สู่เครื่องมือที่ใช้จริง
+### Hi, I'm Chayutarat 👋
 
-ผมกำลังพัฒนาเครื่องมือส่วนตัวที่ช่วยให้ข้อมูลซับซ้อนอ่านง่ายขึ้น<br>
-ให้ความสำคัญกับหน้าตาที่ใช้งานคล่อง ระบบเบื้องหลังที่ตรวจสอบได้ และการตัดสินใจที่ยังอยู่ในมือผู้ใช้
+I build personal tools that turn complex, fast-moving information into something anyone can read at a glance —<br>
+clean interfaces, systems you can verify, and decisions that stay in the user's hands.
+
+<sub>ผมสร้างเครื่องมือที่ทำให้ข้อมูลซับซ้อนอ่านง่าย หน้าตาใช้งานคล่อง ระบบเบื้องหลังตรวจสอบได้ และผู้ใช้เป็นคนตัดสินใจเสมอ</sub>
 
 ![Swift](https://img.shields.io/badge/Swift-101F1A?style=for-the-badge&logo=swift&logoColor=E5BC67)
 ![Python](https://img.shields.io/badge/Python-101F1A?style=for-the-badge&logo=python&logoColor=67CEA5)
 ![TypeScript](https://img.shields.io/badge/TypeScript-101F1A?style=for-the-badge&logo=typescript&logoColor=67CEA5)
+![React](https://img.shields.io/badge/React-101F1A?style=for-the-badge&logo=react&logoColor=67CEA5)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-101F1A?style=for-the-badge&logo=cloudflare&logoColor=E5BC67)
 ![macOS](https://img.shields.io/badge/macOS-101F1A?style=for-the-badge&logo=apple&logoColor=E5BC67)
 
 </div>
 
 ---
 
-### On my desk
+### 🏆 Featured project
 
-**AITrading · Personal Market Desk**
+<a href="https://github.com/mcsmajor/AITradingAssistant-Showcase">
+  <img src="https://raw.githubusercontent.com/mcsmajor/AITradingAssistant-Showcase/main/assets/app-overview-dark.png" alt="AITrading · Gold Market Desk" width="100%">
+</a>
 
-โปรเจกต์ส่วนตัวสำหรับติดตามตลาด รวมข้อมูลไว้ในหน้าเดียว พร้อมการแจ้งเตือนและบันทึกที่กลับมาอ่านได้ง่าย
+**[AITrading · Gold Market Desk](https://github.com/mcsmajor/AITradingAssistant-Showcase)** — a personal desk for spot gold (XAUUSD)
+on macOS and the web. It reads the market top-down, draws zones and structure onto the live chart, and explains every step in plain
+language for beginners. Read-only by design: the system explains, the trader decides.
 
-| Focus | Approach |
+| | |
 | :--- | :--- |
-| **Clear information** | สรุปให้เข้าใจง่าย พร้อมเหตุผลที่ตรวจสอบได้ |
-| **Thoughtful interface** | ใช้งานคล่อง รายละเอียดพอดี และอ่านสบายตา |
-| **Connected experience** | แอปบน Mac การแจ้งเตือน และมุมมองผ่านเว็บ |
-| **Human control** | เครื่องมือช่วยวิเคราะห์ ผู้ใช้เป็นคนตัดสินใจ |
+| 🧭 **Market map** | Big picture → zone → turn → sweep → candle, each with *now / meaning / what to do* |
+| ⚡ **Real-time** | MetaTrader 5 data in ~0.25 s on the Mac, seconds on the web |
+| 🪞 **Two screens, one design** | Native SwiftUI app and a members-only web desk with the same layout |
+| 🛡️ **Safe by design** | No order execution, no trading on stale data, evidence stored append-only |
 
-ซอร์สและรายละเอียดการทำงานของโปรเจกต์เก็บไว้ใน repository ส่วนตัว
+<p>
+  <a href="https://gold.jerngub.com"><img alt="Live desk" src="https://img.shields.io/badge/live-gold.jerngub.com-E5BC67?style=flat-square&labelColor=101F1A"></a>
+  <a href="https://github.com/mcsmajor/AITradingAssistant-Showcase"><img alt="Showcase" src="https://img.shields.io/badge/showcase-read%20more-67CEA5?style=flat-square&labelColor=101F1A"></a>
+</p>
+
+<sub>The full source is kept private; the showcase repository shows the product, the architecture and the principles behind it.</sub>
 
 ---
 
@@ -37,6 +50,6 @@
 
 **Build with purpose. Refine with care.**
 
-<sub>mcsmajor · Personal projects, built one thoughtful step at a time.</sub>
+<sub>Chayutarat Srioumsuk · mcsmajor · Thailand</sub>
 
 </div>
