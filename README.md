@@ -22,11 +22,11 @@ clean interfaces, systems you can verify, and decisions that stay in the user's 
 
 ### 🏆 Featured project
 
-<a href="https://github.com/mcsmajor/AITradingAssistant-Showcase">
-  <img src="https://raw.githubusercontent.com/mcsmajor/AITradingAssistant-Showcase/main/assets/app-overview-dark.png" alt="AITrading · Gold Market Desk" width="100%">
+<a href="https://github.com/mcsmajor/AITrading-Showcase">
+  <img src="https://raw.githubusercontent.com/mcsmajor/AITrading-Showcase/main/assets/app-overview-dark.png" alt="AITrading · Gold Market Desk" width="100%">
 </a>
 
-**[AITrading · Gold Market Desk](https://github.com/mcsmajor/AITradingAssistant-Showcase)** — a personal desk for spot gold (XAUUSD)
+**[AITrading · Gold Market Desk](https://github.com/mcsmajor/AITrading-Showcase)** — a personal desk for spot gold (XAUUSD)
 on macOS and the web. It reads the market top-down, draws zones and structure onto the live chart, and explains every step in plain
 language for beginners. Read-only by design: the system explains, the trader decides.
 
@@ -39,7 +39,7 @@ language for beginners. Read-only by design: the system explains, the trader dec
 
 <p>
   <a href="https://gold.jerngub.com"><img alt="Live desk" src="https://img.shields.io/badge/live-gold.jerngub.com-E5BC67?style=flat-square&labelColor=101F1A"></a>
-  <a href="https://github.com/mcsmajor/AITradingAssistant-Showcase"><img alt="Showcase" src="https://img.shields.io/badge/showcase-read%20more-67CEA5?style=flat-square&labelColor=101F1A"></a>
+  <a href="https://github.com/mcsmajor/AITrading-Showcase"><img alt="Showcase" src="https://img.shields.io/badge/showcase-read%20more-67CEA5?style=flat-square&labelColor=101F1A"></a>
 </p>
 
 <sub>The full source is kept private; the showcase repository shows the product, the architecture and the principles behind it.</sub>
